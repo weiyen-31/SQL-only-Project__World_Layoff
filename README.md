@@ -33,11 +33,11 @@ Note: This project focuses on Exploratory Data Analysis (EDA) only, and does not
   ### 2.Company Risk Assessment
   - Early-stage companies (Seed stage) show the highest risk scores, indicating higher vulnerability.
   - Some industries like Crypto and Travel show high volatility and repeated layoff risk.
-  - Layoffs are influenced more by industry structure and company stage than funding alone.
+  - Layoffs are influenced more by industry structure and company stage rather than funding alone.
 
 ## Recommendations
-- Focus monitoring on high-risk industries such as Transportation, Consumer, Retail, and Crypto.
-- Pay special attention to early-stage (Seed) companies because they are most vulnerable.
+- Focus on monitoring high-risk industries such as Transportation, Consumer, Retail, and Crypto.
+- Be aware to early-stage (Seed) companies because they are most vulnerable.
 - Use industry + company stage as a key early warning signal for layoffs.
 - Funding alone is not a protective factor, high funding does not necessarily reduce layoff risk.
    
