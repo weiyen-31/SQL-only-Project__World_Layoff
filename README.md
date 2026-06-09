@@ -12,7 +12,7 @@ Note: This project focuses on Exploratory Data Analysis (EDA) only, and does not
   4. Which company stages are most risky?
 
 ## Dataset
-layoffs_staging2 table
+layoffs_staging2 table:
   - company
   - location
   - industry
@@ -45,9 +45,18 @@ layoffs_staging2 table
   - Some industries like Crypto and Travel show high volatility and repeated layoff risk.
   - Layoffs are influenced more by industry structure and company stage rather than funding alone.
 
+## Insights
+- The United States appears most frequently in the top layoff rankings, especially in Transportation, Consumer, Retail, and   Real Estate.
+- Layoffs are concentrated in a few key country–industry combinations, rather than being evenly distributed globally.
+- Industries such as Transportation, Consumer, and Retail are consistently among the most affected across different months.
+- Early-stage companies (Seed stage) show the highest risk scores, indicating higher vulnerability.
+- Some industries like Crypto and Travel show high volatility and repeated layoff risk.
+- Funding alone is not a protective factor, high funding does not necessarily reduce layoff risk.
+
 ## Recommendations
 - Focus on monitoring high-risk industries such as Transportation, Consumer, Retail, and Crypto.
 - Be aware to early-stage (Seed) companies because they are most vulnerable.
 - Use industry + company stage as a key early warning signal for layoffs.
-- Funding alone is not a protective factor, high funding does not necessarily reduce layoff risk.
+- Do not rely on funding alone when assessing company stability.
+- Track country-level trends (especially the US) as they heavily influence global layoff patterns.
    
