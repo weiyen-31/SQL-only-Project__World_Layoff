@@ -1,7 +1,8 @@
 # Layoff Data Analysis (EDA Project)
 
 ## Project Overview
-This project consist two analysis to find patterns of global company layoffs across countries, industries, and company stages. The aim is to understand where layoffs occur most often and which types of companies face the greatest risk.
+This project consists of two analyses to find patterns of global company layoffs across countries, industries, and company stages. The objective is understand where layoffs occur most often and which types of companies face the greatest risk.
+
 Note: This project focuses on Exploratory Data Analysis (EDA) only, and does not include dedicated data cleaning phase, as the dataset was assumed to be pre-cleaned for analytical purposes.
 
 ## Business Questions
