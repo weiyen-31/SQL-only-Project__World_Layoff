@@ -26,11 +26,11 @@ Note: This project focuses on Exploratory Data Analysis (EDA) only, and does not
   - Ranked industry-stage combinations by risk level
 
 ## Key Results
-  ### 1.Monthly Layoff Hotspots
+  ### 1. Monthly Layoff Hotspots
   - The United States appeared most frequently among the top monthly layoff hotspots.
   - Consumer and transportation industries consistently recorded high layoff volumes.
 
-  ### 2.Company Risk Assessment
+  ### 2. Company Risk Assessment
   - Early-stage companies (Seed stage) show the highest risk scores, indicating higher vulnerability.
   - Some industries like Crypto and Travel show high volatility and repeated layoff risk.
   - Layoffs are influenced more by industry structure and company stage rather than funding alone.
