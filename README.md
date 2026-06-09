@@ -12,7 +12,16 @@ Note: This project focuses on Exploratory Data Analysis (EDA) only, and does not
   4. Which company stages are most risky?
 
 ## Dataset
-- layoffs_staging2 table
+layoffs_staging2 table
+  - company
+  - location
+  - industry
+  - total_laid_off
+  - percentage_laid_off
+  - date
+  - stage
+  - country
+  - funds_raised_millions 
 
 ## SQl Workflow
   ### 1. Analysis 1: Monthly Layoff Hotspots
