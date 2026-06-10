@@ -9,8 +9,8 @@ WITH grouped AS (
 )
 SELECT *,
       	  (avg_pct_laid_off * 0.6 
-+ (sum_total_laid_off / NULLIF(sum_fund_raised,0)) * 0.4) AS   risk_score,
-       	RANK() OVER(ORDER BY 
+            + (sum_total_laid_off / NULLIF(sum_fund_raised,0)) * 0.4) AS risk_score,
+       	   RANK() OVER(ORDER BY 
             (avg_pct_laid_off * 0.6 
             + (sum_total_laid_off / NULLIF(sum_fund_raised,0)) * 0.4) DESC
        	) AS rnk
