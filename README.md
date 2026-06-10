@@ -61,7 +61,7 @@ layoffs_staging2 table:
 - Track country-level trends (especially the US) as they heavily influence global layoff patterns.
 
 ## Tools Used
-SQL (CTE, Aggregation)
-Window Functions (DENSE_RANK, PARTTITION BY)
-Date calculations (DATEDIFF)
+- SQL (CTE, Aggregation)
+- Window Functions (DENSE_RANK, PARTTITION BY)
+- Date calculations (DATEDIFF)
    
