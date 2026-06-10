@@ -59,4 +59,9 @@ layoffs_staging2 table:
 - Use industry + company stage as a key early warning signal for layoffs.
 - Do not rely on funding alone when assessing company stability.
 - Track country-level trends (especially the US) as they heavily influence global layoff patterns.
+
+## Tools Used
+SQL (CTE, Aggregation)
+Window Functions (DENSE_RANK, PARTTITION BY)
+Date calculations (DATEDIFF)
    
