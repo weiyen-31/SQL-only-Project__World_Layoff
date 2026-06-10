@@ -62,6 +62,6 @@ layoffs_staging2 table:
 
 ## Tools Used
 - SQL (CTE, Aggregation)
-- Window Functions (DENSE_RANK, PARTTITION BY)
+- Window Functions (DENSE_RANK, PARTITION BY)
 - Date calculations (DATEDIFF)
    
